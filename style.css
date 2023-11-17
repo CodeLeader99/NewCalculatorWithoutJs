@@ -19,6 +19,7 @@ body {
   padding: 20px;
   border-radius: 10px;
 }
+
 .calculator form input {
   border: 0;
   outline: 0;
@@ -52,4 +53,7 @@ form div input.symbal {
 }
 form h1 {
   color: aqua;
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
 }
+
